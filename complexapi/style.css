@@ -1,0 +1,45 @@
+*box-sizing {
+  margin: 0%;
+}
+
+html {
+  font size: 10px;
+}
+
+body {
+background-color: rgb(189,167,180);
+}
+
+header {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(147,65,96);
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 6rem;
+}
+ img {
+   width: 200px;
+   height: 200px;
+ }
+
+ button#secondButton {
+   padding: 7px;
+}
+button#firstButton {
+    padding: 7px;
+}
+
+.kittyCat {
+    text-align: center;
+}
+p#catFact,span#spanish {
+    font-family: monospace;
+}
+
+p, span {
+  font-size: 2rem;
+}
